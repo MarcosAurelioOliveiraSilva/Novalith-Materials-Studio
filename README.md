@@ -8,4 +8,4 @@ Ferramenta profissional para criação e visualização de materiais PBR.
 Este aplicativo opera localmente e não coleta dados pessoais. Para mais detalhes, leia nosso [PRIVACY.md](./PRIVACY.md).
 
 ## Suporte
-Para suporte, entre em contato via e-mail: [Seu E-mail Aqui]
+Para suporte, entre em contato via e-mail: [Marcosaureliorockfeller@gmail.com]
