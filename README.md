@@ -1,4 +1,4 @@
-# ovalith-Materials-Studio
+# Novalith-Materials-Studio
 Professional PBR material and texture studio for game developers and 3D artists.
 
 # Novalith Materials Studio
